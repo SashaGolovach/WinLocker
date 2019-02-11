@@ -1,0 +1,18 @@
+c:\users\саша\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+c:\users\саша\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+c:\users\саша\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+c:\users\саша\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+c:\users\саша\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+c:\users\саша\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+c:\users\саша\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+c:\users\саша\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+c:\users\саша\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Саша\Desktop\winlocker\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Саша\Desktop\winlocker\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Саша\Desktop\winlocker\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Саша\Desktop\winlocker\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Саша\Desktop\winlocker\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Саша\Desktop\winlocker\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Саша\Desktop\winlocker\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\Саша\Desktop\winlocker\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Саша\Desktop\winlocker\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
